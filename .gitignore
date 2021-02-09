@@ -102,4 +102,5 @@ dist
 
 # TernJS port file
 .tern-port
-img/portfolio/large/.DS_Store
+.DS_Store
+.history/
